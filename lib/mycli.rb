@@ -3,6 +3,6 @@ require "mycli/cli"
 
 module Mycli
     def self.hi
-      puts "Hello world!"
+      puts "Hello world! This is Arun"
     end
 end
